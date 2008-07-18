@@ -5,7 +5,7 @@
 |-
 |style="width:280px;text-align:center;white-space:nowrap;color:#000" |
 <div style="font-size:162%;border:none;margin: 0;padding:.1em;color:#000">Welkam long [[Wikipedia]] long [[Bislama]].</div>
-<div id="articlecount" style="width:100%;text-align:center;font-size:85%;">Namba blong atikel blong tok tok Bislama: '''{{NUMBEROFARTICLES}}'''</div>
+<div id="articlecount" style="width:100%;text-align:center;font-size:85%;">Namba blong [[Special:AllPages|atikel]] blong tok tok Bislama: '''[[Special:Statistics|{{NUMBEROFARTICLES}}]]'''</div>
 |}
 [[Image:Vanuatu coa.gif|right]]
 [[Image:Nh-map.png|200px|right]]
