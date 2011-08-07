@@ -1,18 +1,13 @@
-{| border="1" cellpadding="4" cellspacing="0" style="width:300px; float:right; margin:0 0 1em 1em; background:#fafafa; border:1px #aaaaaa solid; border-collapse:collapse; font-size:95%;"
-|+<font size="+1">'''Roma'''</font><br />
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|+<big>'''Madrid'''</big>
 |-
-! style="background: #f0f0f0;width: 145px;" | [[Restr:Flag of Rome.svg|150px|Banniel Roma]]<br />
-<small>
-! style="background: #f0f0f0;width: 145px;" | [[Restr:Coat of arms of Rome.svg|100px|Skoed-Ardamez Roma]]<br /><small> 
-|- align="center"
-|[[Kaontri]]
-|[[Italy]]
-|- align="center"
-|Rijon 
-| Lazio 
-|- align="center"
-
+| style="background:#efefef;" align="center" colspan=2 |
+{| border="0" cellpadding="2" cellspacing="0"
+|-
+| align="center" width="140px" |[[File:Bandera de Rome.svg|left|130px]]
+| align="center" width="140px" |[[File:Escudo de Rome.svg|left|95px]]
 |}
+
 
 '''Rome''' hem i kapital blong [[Italy]]. Hem i stap long [[Lazio]] rijon.
 
